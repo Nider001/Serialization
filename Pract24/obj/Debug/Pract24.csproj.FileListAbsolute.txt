@@ -1,0 +1,40 @@
+D:\Дмитрий\Информатика\Pract24\Pract24\bin\Debug\Pract24.exe.config
+D:\Дмитрий\Информатика\Pract24\Pract24\bin\Debug\Pract24.exe
+D:\Дмитрий\Информатика\Pract24\Pract24\bin\Debug\Pract24.pdb
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.csprojAssemblyReference.cache
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.MainForm.resources
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.Properties.Resources.resources
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.csproj.GenerateResource.cache
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.csproj.CoreCompileInputs.cache
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.exe
+D:\Дмитрий\Информатика\Pract24\Pract24\obj\Debug\Pract24.pdb
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\bin\Debug\Pract24.exe.config
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\bin\Debug\Pract24.exe
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\bin\Debug\Pract24.pdb
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.csprojResolveAssemblyReference.cache
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.MainForm.resources
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.Properties.Resources.resources
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.csproj.GenerateResource.Cache
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.csproj.CoreCompileInputs.cache
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.exe
+C:\Users\sorokin_da\source\repos\Pract24\Pract24\obj\Debug\Pract24.pdb
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\bin\Debug\Pract24.exe.config
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\bin\Debug\Pract24.exe
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\bin\Debug\Pract24.pdb
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.csprojResolveAssemblyReference.cache
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.MainForm.resources
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.Properties.Resources.resources
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.csproj.GenerateResource.Cache
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.csproj.CoreCompileInputs.cache
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.exe
+C:\Users\sorokin_da\Desktop\Сериализация рабочая\Pract24\obj\Debug\Pract24.pdb
+I:\Inform\Сериализация полная\Pract24\bin\Debug\Pract24.exe.config
+I:\Inform\Сериализация полная\Pract24\bin\Debug\Pract24.exe
+I:\Inform\Сериализация полная\Pract24\bin\Debug\Pract24.pdb
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.csprojAssemblyReference.cache
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.MainForm.resources
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.Properties.Resources.resources
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.csproj.GenerateResource.cache
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.csproj.CoreCompileInputs.cache
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.exe
+I:\Inform\Сериализация полная\Pract24\obj\Debug\Pract24.pdb
